@@ -22,6 +22,12 @@ This Power BI project presents a dynamic and insightful dashboard analyzing mobi
 
 ---
 
+## 📷 Dashboard Preview
+
+![Dashboard Preview](Main_Dashboard.png)
+
+---
+
 ## 🧠 Key DAX Measures
 
 - `Total Sales`
